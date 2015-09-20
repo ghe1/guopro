@@ -1,2 +1,2 @@
 # guopro
-GuoPro
+GuoPro for all your GuoPro needs.
